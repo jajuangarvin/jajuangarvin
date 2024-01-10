@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jajuangarvin
-- 👀 I’m interested in cyber security 
+- 👀 I’m interested in cybersecurity 
 - 🌱 I’m currently learning Python
 - 📫 You can connect with me on LinkedIn
 
